@@ -1,5 +1,34 @@
 # Pink Glitter — Design
 
+## Refinamento atual — moldura coração
+
+- Substituir o recorte orgânico da foto por coração, inspirado no espelho rosa presente na imagem.
+- Contorno luminoso acompanha o coração; ferramentas permanecem nas laterais. Preservar o card e todo o restante.
+
+## Foto editorial — etapa atual
+
+- Usar somente a nova foto com espelho, abaixo da introdução, em moldura orgânica curva com contorno luminoso e pontos de brilho.
+- Pinça rosa, escovinha e cílio realista ficam nas laterais das bordas, sobrepostos discretamente, nunca no centro do resultado.
+- Adicionar apenas o título “Serviços” acima do único card aprovado. Não replicar cards ou adicionar legendas, categorias ou carrossel.
+- Preservar integralmente o card rosa com glitter e sua animação.
+
+## Preview aprovado em direção — card rosa compacto
+
+- Testar apenas Volume Brasileiro. Card rosa vivo em gradiente com glitter, acabamento 3D e cílio realista recortado à direita, sem ícone de olho.
+- Ordem: título, valores, descrição/prazo, “Agende agora”. Texto não se sobrepõe ao cílio.
+- Preservar entrada com rotação e flutuação da referência em camadas independentes; testar estado final no mobile.
+- Nenhuma foto de cliente ou categoria adicional. Aguardar aprovação do card antes de replicar.
+
+## Estado atual — preview removido
+
+- Card de Volume Brasileiro removido. Manter apenas hero, transição e introdução textual. Aguardar novas instruções antes de criar cards.
+
+## Preview atual — um card para aprovação
+
+- Somente Volume Brasileiro: aplicação R$ 80, manutenção R$ 70, prazo de 15 a 20 dias, CTA “Agende agora” no WhatsApp.
+- Card vinho profundo com gradiente pink e ícone interno. Entrada rotacionada e flutuação preservadas da referência VF, com wrappers independentes para evitar conflitos de transform no celular.
+- Entregar um único card; aguardar aprovação antes de replicar. Não modificar hero, introdução ou adicionar outras categorias.
+
 ## Reversão atual
 
 - Cards VF removidos a pedido do usuário. Estado visível: hero, transição original e introdução textual, sem cards ou fotos abaixo.

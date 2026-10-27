@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "./services.css";
+@import "./pink-lash-card.css";
+@import "./lash-editorial-photo.css";
 
 @font-face {
   font-family: "Cormorant Garamond";

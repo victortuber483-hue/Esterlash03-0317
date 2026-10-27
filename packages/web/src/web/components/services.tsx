@@ -1,3 +1,6 @@
+import { LashCardPreview } from "./lash-card-preview";
+import { LashEditorialPhoto } from "./lash-editorial-photo";
+
 export function Services() {
   return (
     <div className="services-content">
@@ -9,6 +12,9 @@ export function Services() {
             <p>Extensão de cílios para realçar a sua beleza. Descubra as opções e encontre o seu próximo olhar.</p>
           </div>
         </div>
+        <LashEditorialPhoto />
+        <h2 className="lash-services-heading">Serviços</h2>
+        <LashCardPreview />
       </section>
     </div>
   );
